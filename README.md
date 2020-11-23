@@ -12,16 +12,16 @@ The edge list represent the mails sent in a company between 2 people represented
 
 ## Structure
 
-#### data/
+#### data /
 
 initial --> We find the intitial edge list
 output --> we could find the excel file with the main stats extracted from the network
 
-#### image/
+#### image /
 
 here we could find the different representations to better understand the data
 
-#### jupyter-notebook/
+#### jupyter-notebook /
 Email_Network_and_Stats --> We create the Graph and extract the main stats. As network processing involves intensive use of resources we will only have to do this process once. If we had more nodes and edges the processing power for retrieving stats like the RandomWalk increase exponentially.
 
 Email_Network_Visualization --> I have just created this two png files because the network was little enough to do so and it is kind of cool
