@@ -14,10 +14,11 @@ The edge list represent the mails sent in a company between 2 people represented
 
 #### data /
 
-initial --> We find the intitial edge list
+initial --> We find the intitial edge list.
+
 output --> we could find the excel file with the main stats extracted from the network.
 
-#### image /
+#### image /
 
 here we could find the different representations to better understand the data.
 
